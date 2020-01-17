@@ -1,0 +1,103 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+h1{
+	text-align: center;
+	padding: 20px;
+	color: #fff;
+}
+h2{
+	text-align: center;
+	padding: 20px;
+}
+
+body{
+
+	background:url(../img/bg.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+.sign-up img{
+
+width:100px;
+
+display:block;
+
+margin: -57px auto;
+}
+
+.sign-up{
+
+	width:343px;
+	background-color:#ffffff52;
+	margin:0 0 0 430px;
+	padding: 20px;
+	border-radius: 10px; 
+	
+
+}
+.sign-up{
+
+	margin-left: 115px
+	
+
+}
+
+
+.sign-up{
+
+	width:343px;
+	background-color:#ffffff6e;
+	margin:0 auto;
+	
+
+}
+#name{
+	width: 300px;
+	border-radius: 3px;
+	border: none;
+	outline: 0;
+	padding: 6px;
+
+}
+#ph{
+	width: 75px;
+	padding: 5px;
+	border: none;
+	border-radius: 3px;
+	outline: 0;
+}
+#num{
+	width: 220px;
+	padding: 6px;
+	border: none;
+	border-radius: 3px;
+	outline: 0;	
+
+}
+#sub{
+	display: block;
+	width: 200px;
+	margin: 0 auto; 
+	padding: 6px;
+	font-size: 16px;
+	font-family: sans-serif;
+	font-weight: 600;
+	border: sienna;
+	border-radius: 3px;
+	outline: 0;	
+	text-transform: uppercase;
+	box-shadow: 1px 2px 4px black;
+	cursor: pointer;
+
+}
+.lebel{
+	color: black;
+	font-size: 18px;
+	font-family: sans-serif;
+	font-style: italic;
+}
+
